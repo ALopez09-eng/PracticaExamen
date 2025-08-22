@@ -30,3 +30,16 @@ Cada alumno debe crear su propia página y añadir su tarjeta al `index.html` me
 - [ ] Sin errores de validación HTML (pruébalo en https://validator.w3.org/).
 
 ¡Éxitos y a colaborar!
+
+
+
+
+
+
+
+
+
+
+
+
+
